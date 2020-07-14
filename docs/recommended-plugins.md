@@ -52,3 +52,4 @@ Adds cappability to render markdown files as html.
 - [lazyImages](https://www.npmjs.com/package/@notiz/scully-plugin-lazy-images)
 - [rss](https://www.npmjs.com/package/@notiz/scully-plugin-rss)
 - [mediumZoom](https://www.npmjs.com/package/@notiz/scully-plugin-medium-zoom)
+- [shopify](https://www.npmjs.com/package/@gammastream/scully-plugin-shopify)
